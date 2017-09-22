@@ -1,0 +1,5 @@
+# RichWeb_Lab1
+
+
+
+Q1) Explain what is meant by Rich Web Application Development. Distinguish it from traditional web development?Early internet users mostly exchanged text-based electronic mail message. Then along came HTML and the World Wide Web, and soon people were looking at graphically enhanced web pages designed by specialists and served up on demand. All these application mainly involved reading text on-screen and dealing with material that was preformatted and essentially.Whole development model has changed. We had limitation on client – side processing power. So we set up high – end servers, produced most of the HTML content on the server side and sent it to the client. On the client side, we just used JavaScript to validate user’s input  Q2) What is the Document Object Model? Explain, giving a couple of examples, how to interact with the DOM in JavaScript? Connects web pages to scripts or programming language. Usually that means JavaScript, but modelling HTML, SVG or XML documents as objects is not part of the JavaScript language. The DOM model represents a document with a logical tree.     
