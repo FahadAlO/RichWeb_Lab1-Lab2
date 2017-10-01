@@ -1,1 +1,1 @@
-# RichWeb_Lab1
+# RichWeb_Lab1,Lab2
